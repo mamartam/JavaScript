@@ -1,0 +1,15 @@
+In JavaScript, loops allow you to repeatedly execute a block of code as long as a 
+specified condition is true.
+A loop is a way to repeat the same code several times.
+
+Common loops in JS:
+1. for
+2. for in
+3. for of
+4. do while
+5. while
+6. break & continue
+7. forEach(method)
+
+One execution of the loop is called an iteration.
+!!! Break and continue cannot be used with a ternary operator!!!
