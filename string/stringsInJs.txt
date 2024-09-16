@@ -1,0 +1,43 @@
+Strings are written with quotes " ".
+
+**
+Strings created with single or double quotes works the same.
+There is no difference between the two.
+**
+
+
+
+BASIC STRING METHODS
+All string methods produce a new string without altering the original string.
+
+str.length - how much symbols in the string
+str.toUpperCase - jkjkjk => JKJKJK
+str.toLowerCase - JKJKJK => jkjkjk
+str.charAt(0) - it returns the symbol on the position developer have wrote down
+str.charCodeAt(1) - it returns the code of the symbol
+str.at(2) - return the same as charAt method but it also allow to use negative index
+str.slice(start, end) - start symbol is included and will be printed, but end symbol is not included
+    If a parameter is negative, the position is counted from the end of the string
+
+str.concat() - 
+str.endsWith()
+str.fromCharCode()
+str.includes()
+str.indexOf()
+str.lastIndexOf()
+str.match(/smth/g)
+str.repeat()
+str.replace(/end/g, END)
+str.search()
+str.slice(start, end)
+str.split(" ; ")
+str.startsWith()
+str.substr(start, length)
+str.substring(start, )
+str.trim()
+
+
+
+/smth/g - regular expression
+
+
