@@ -1,0 +1,34 @@
+JavaScript has only one type of number.
+
+**
+WARNING !!
+
+JavaScript uses the + operator for both addition and concatenation.
+
+Numbers are added. Strings are concatenated.
+**
+
+If you add two strings, the result will be a string concatenation:
+let x = "10";
+let y = "20";
+let z = x + y; // z = "1020"
+If you add a number and a string, the result will be a string concatenation:
+let x = 10;
+let y = "20";
+let z = x + y; // z = "1020"
+
+
+Numbers methods
+toString()	Returns a number as a string
+toExponential()	Returns a number written in exponential notation
+toFixed()	Returns a number written with a number of decimals
+toPrecision()	Returns a number written with a specified length
+valueOf()	Returns a number as a number
+Number()	Returns a number converted from its argument.
+parseFloat()	Parses its argument and returns a floating point number
+parseInt()	Parses its argument and returns a whole number
+Number.isInteger()	Returns true if the argument is an integer
+Number.isSafeInteger()	Returns true if the argument is a safe integer
+Number.parseFloat()	Converts a string to a number
+Number.parseInt()	Converts a string to a whole number
+

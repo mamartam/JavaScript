@@ -1,0 +1,21 @@
+Array sort() -  sorts an array alphabetically
+Array reverse() - method reverses the elements in an array
+Array toSorted() - a safe way to sort an array without altering the original array.
+(creates a new array, keeping the original array unchanged)
+Array toReversed() - the same, cteates new array
+Sorting Objects - 
+Numeric Sort
+Random Sort
+Math.min()
+Math.max()
+Home made Min()
+Home made Max()
+
+**
+To find the lowest or highest value you have 3 options:
+
+Sort the array and read the first or last element
+Use Math.min() or Math.max()
+Write a home made function
+**
+
