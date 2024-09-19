@@ -1,0 +1,9 @@
+Arrow functions were introduced in ES6.
+Arrow functions allow us to write shorter function syntax:
+
+from this
+hello = function() {
+  return "Hello World!";
+}
+to this
+let myFunction = (a, b) => a * b;
